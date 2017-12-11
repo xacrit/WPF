@@ -12,3 +12,17 @@ c:\users\dell\documents\visual studio 2015\Projects\WPFMVVMDemo\WPFMVVMDemo\obj\
 c:\users\dell\documents\visual studio 2015\Projects\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.csproj.GenerateResource.Cache
 c:\users\dell\documents\visual studio 2015\Projects\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.exe
 c:\users\dell\documents\visual studio 2015\Projects\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.pdb
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\bin\Debug\WPFMVVMDemo.exe.config
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.exe
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.pdb
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\bin\Debug\WPFMVVMDemo.exe
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\bin\Debug\WPFMVVMDemo.pdb
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.csprojResolveAssemblyReference.cache
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\MainWindow.g.cs
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\App.g.cs
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo_MarkupCompile.cache
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo_MarkupCompile.lref
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\MainWindow.baml
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.g.resources
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.Properties.Resources.resources
+E:\github\WPF\WPFMVVMDemo\WPFMVVMDemo\obj\Debug\WPFMVVMDemo.csproj.GenerateResource.Cache
